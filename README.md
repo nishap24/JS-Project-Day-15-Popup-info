@@ -15,7 +15,7 @@ GitHub Pop Up Info: Customize this web app with ease. Display informative pop-up
 
 Live Demo:
 
-    
+ https://nishap24.github.io/JS-Project-Day-15-Popup-info/   
    
 ## Getting Started
 
