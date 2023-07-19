@@ -49,6 +49,11 @@ Enhance user experience by providing informative messages in an eye-catching pop
 6. Simple integration into existing web applications or projects.
 
 7. Straightforward code structure for easy modification and extension.
+
+## Deployment Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2c10a344-2b13-4b7b-a3ec-4e20a4b3f25b/deploy-status)](https://app.netlify.com/sites/kanasu-pop-up-info/deploys)
+
 ## Contributing
 
 Contributions are always welcome!
